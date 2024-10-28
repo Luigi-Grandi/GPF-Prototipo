@@ -6,3 +6,6 @@ seaborn
 scikit-learn
 keras
 streamlit
+matplotlib
+scikit-learn
+tensorflow.keras
