@@ -1,6 +1,8 @@
-streamlit
-pandas
 tensorflow
 numpy
+matplotlib
 pandas
+seaborn
 scikit-learn
+keras
+streamlit
